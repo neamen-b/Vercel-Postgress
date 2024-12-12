@@ -10,5 +10,4 @@ function App({ Component, pageProps }: AppProps<{ session?: Session }>) {
   );
 }
 
-
 export default App;
